@@ -1,3 +1,4 @@
+//Esteb programa sirve para aprender a multiplicar, y tambien pra saber que Armando es Gay
 const {listarTabla} = require('./multiplicar/multiplicacion');
 const argumentos = require('yargs')
 .command('listar', 'Imprime en consola la tabla de multiplicacion', {
